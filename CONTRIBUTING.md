@@ -35,7 +35,7 @@ Thank you for your interest in contributing to the Archethic Project Hub! We wel
 
 ## Code of Conduct
 
-Please note that we have a Code of Conduct in place to ensure a welcoming and inclusive environment for all contributors. By participating in this project, you agree to abide by its terms.
+Please note that we have a [Code of Conduct](Code_of_Conduct.md) in place to ensure a welcoming and inclusive environment for all contributors. By participating in this project, you agree to abide by its terms.
 
 ## License
 
