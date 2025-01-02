@@ -6,7 +6,7 @@ Welcome to the Archethic Project Hub! This repository is dedicated to listing an
 - [Introduction](#introduction)
 - [Collaborative Project Proposal Guide](#collaborative-project-proposal-guide)
 - [Project Proposals](#project-proposals)
-- [Idea Directory](#idea-directory)
+- [Ideas](#ideas)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -16,11 +16,13 @@ The Archethic Project Hub is a central repository for the Archethic community to
 ## Collaborative Project Proposal Guide
 We have created a versioned "Collaborative Project Proposal Guide" to help you structure your project proposals. This guide is designed to evolve based on feedback from the community, ensuring it remains relevant and useful.
 
+**Note:** The guide is located in the "Collaborative Project Proposal Guide" directory because it includes both an English version and a French version.
+
 ## Project Proposals
 This section contains all the project proposals shared by the Archethic community. Proposals are categorized to make it easier to find projects that align with your interests and expertise.
 
-## Idea Directory
-Not all ideas are ready for full project proposals. The Idea Directory is a space for sharing and discussing ideas that are still in the early stages of development. This allows the community to provide feedback and help refine these ideas into actionable projects.
+## Ideas
+Not all ideas are ready for full project proposals. The Ideas directory is a space for sharing and discussing ideas that are still in the early stages of development. This allows the community to provide feedback and help refine these ideas into actionable projects.
 
 ## Contributing
 We welcome contributions from all members of the Archethic community. Whether you have a new project proposal, feedback on existing proposals, or ideas to share, your input is valuable. Please refer to our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
