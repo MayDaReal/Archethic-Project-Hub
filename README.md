@@ -6,6 +6,8 @@ Welcome to the Archethic Project Hub! This repository is dedicated to listing an
 - [Introduction](#introduction)
 - [Collaborative Project Proposal Guide](#collaborative-project-proposal-guide)
 - [Project Proposals](#project-proposals)
+  - [Project List](#project-list)
+  - [How to Use the Table](#how-to-use-the-table)
 - [Ideas](#ideas)
 - [Contributing](#contributing)
 - [License](#license)
@@ -24,7 +26,7 @@ This section contains all the project proposals shared by the Archethic communit
 ### Project List
 | **Project Name**                | **Category**             | **Status**               | **Description**                                    | **Link**                                  |
 |---------------------------------|--------------------------|--------------------------|---------------------------------------------------|-------------------------------------------|
-| Archethic Anthem Contest 2025   | Community and Culture    | In Progress             | Competition to create an official Archethic anthem for 2025. | [Details_fr](Project_Proposals/Archethic_Anthem_Contest_2025_fr.md)<br> [Details_eng](Project_Proposals/Archethic_Anthem_Contest_2025_eng.md) |
+| Archethic Anthem Contest 2025   | Community and Culture    | In Progress             | Competition to create an official Archethic anthem for 2025. | [Details_fr](Project Proposals/Archethic_Anthem_Contest_2025_fr.md)<br> [Details_eng](Project Proposals/Archethic_Anthem_Contest_2025_eng.md) |
 
 ### How to Use the Table
 The table above provides a summary of all projects in the repository. Here's how to interpret and use each column:
