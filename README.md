@@ -21,6 +21,42 @@ We have created a versioned "Collaborative Project Proposal Guide" to help you s
 ## Project Proposals
 This section contains all the project proposals shared by the Archethic community. Proposals are categorized to make it easier to find projects that align with your interests and expertise.
 
+### Project List
+| **Project Name**                | **Category**             | **Status**               | **Description**                                    | **Link**                                  |
+|---------------------------------|--------------------------|--------------------------|---------------------------------------------------|-------------------------------------------|
+| Archethic Anthem Contest 2025   | Community and Culture    | In Progress             | Competition to create an official Archethic anthem for 2025. | [Details_fr](Project_Proposals/Archethic_Anthem_Contest_2025_fr.md)<br> [Details_eng](Project_Proposals/Archethic_Anthem_Contest_2025_eng.md) |
+
+### How to Use the Table
+The table above provides a summary of all projects in the repository. Here's how to interpret and use each column:
+
+1. **Project Name**  
+   - The name of the project. It should be concise but descriptive enough to indicate its purpose.
+
+2. **Category**  
+   - This indicates the area or type of the project. Available categories include:
+     - **Technology and Development**: Projects related to code, protocols, and infrastructure.
+     - **Education and Training**: Projects aimed at training users or developing educational resources.
+     - **Adoption and Integration**: Projects focused on adoption by businesses, developers, or users.
+     - **Marketing and Communication**: Initiatives to promote Archethic and increase visibility.
+     - **Community and Culture**: Artistic, social, or cultural projects that strengthen the Archethic community.
+
+3. **Status**  
+   - The current stage of the project. Valid statuses include:
+     - **Proposed**: The project idea is shared but not yet approved or initiated.
+     - **In Progress**: Work has begun on the project.
+     - **Completed**: The project has been successfully finished.
+     - **On Hold**: Paused due to external or internal factors.
+	 - **Archived**: No longer pursued but retained for reference.
+
+4. **Description**  
+   - A brief overview of the project, highlighting its purpose and goals.
+
+5. **Link**  
+   - A hyperlink to the detailed project proposal document in the `Project_Proposals` directory. This document includes all relevant information about the project, such as objectives, timelines, and team members.
+
+**Adding a New Project**:  
+To add a new project, create a detailed proposal document in the `Project_Proposals` directory and update the table with the project’s information and the link to the document.
+
 ## Ideas
 Not all ideas are ready for full project proposals. The Ideas directory is a space for sharing and discussing ideas that are still in the early stages of development. This allows the community to provide feedback and help refine these ideas into actionable projects.
 
