@@ -26,7 +26,7 @@ This section contains all the project proposals shared by the Archethic communit
 ### Project List
 | **Project Name**                | **Category**             | **Status**               | **Description**                                    | **Link**                                  |
 |---------------------------------|--------------------------|--------------------------|---------------------------------------------------|-------------------------------------------|
-| Archethic Anthem Contest 2025   | Community and Culture    | In Progress             | Competition to create an official Archethic anthem for 2025. | [Details_fr](Project%20Proposals/Archethic_Anthem_Contest_2025_fr.md)<br> [Details_eng](Project%20Proposals/Archethic_Anthem_Contest_2025_eng.md) |
+| Archethic Anthem Contest 2025   | Community    | In Progress             | Competition to create an official Archethic anthem for 2025. | [Details_fr](Project%20Proposals/Archethic_Anthem_Contest_2025_fr.md)<br> [Details_eng](Project%20Proposals/Archethic_Anthem_Contest_2025_eng.md) |
 
 ### How to Use the Table
 The table above provides a summary of all projects in the repository. Here's how to interpret and use each column:
@@ -36,11 +36,11 @@ The table above provides a summary of all projects in the repository. Here's how
 
 2. **Category**  
    - This indicates the area or type of the project. Available categories include:
-     - **Technology and Development**: Projects related to code, protocols, and infrastructure.
-     - **Education and Training**: Projects aimed at training users or developing educational resources.
-     - **Adoption and Integration**: Projects focused on adoption by businesses, developers, or users.
-     - **Marketing and Communication**: Initiatives to promote Archethic and increase visibility.
-     - **Community and Culture**: Artistic, social, or cultural projects that strengthen the Archethic community.
+     - **Technology**: Projects related to code, protocols, and infrastructure.
+     - **Education**: Projects aimed at training users or developing educational resources.
+     - **Adoption**: Projects focused on adoption by businesses, developers, or users.
+     - **Marketing**: Initiatives to promote Archethic and increase visibility.
+     - **Community**: Artistic, social, or cultural projects that strengthen the Archethic community.
 
 3. **Status**  
    - The current stage of the project. Valid statuses include:
