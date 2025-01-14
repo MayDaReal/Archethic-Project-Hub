@@ -27,8 +27,7 @@ This section contains all the project proposals shared by the Archethic communit
 | **Project Name**                | **Category**             | **Status**               | **Description**                                    | **Link**                                  |
 |---------------------------------|--------------------------|--------------------------|---------------------------------------------------|-------------------------------------------|
 | Archethic Anthem Contest 2025   | Community    | In Progress             | Competition to create an official Archethic anthem for 2025. | [Details_fr](Project%20Proposals/Archethic_Anthem_Contest_2025_fr.md)<br> [Details_eng](Project%20Proposals/Archethic_Anthem_Contest_2025_eng.md) |
-|-----------------------|------------------|-------------|-------------------------------------------------------------------------------------------------|---------------------------|
-| AeGora               | Community        | Proposed    | Creation of a network leveraging community expertise to address needs in healthcare, security, and more. | [Details_eng](Project_Proposals/AeGora.pdf) |
+| AeGora               | Community        | Proposed    | Creation of a network leveraging community expertise to address needs in healthcare, security, and more. | [Details_eng](](Project%20Proposals/AeGora.pdf) |
 
 ### How to Use the Table
 The table above provides a summary of all projects in the repository. Here's how to interpret and use each column:
