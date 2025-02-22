@@ -25,11 +25,14 @@ This section contains all the project proposals shared by the Archethic communit
 
 ### Project List
 | **Project Name**                | **Category**             | **Status**               | **Description**                                    | **Link**                                  |
-|---------------------------------|--------------------------|--------------------------|---------------------------------------------------|-------------------------------------------|
-| Archethic Anthem Contest 2025   | Community    | In Progress             | Competition to create an official Archethic anthem for 2025. | [Details_fr](Project%20Proposals/Archethic_Anthem_Contest_2025_fr.md)<br> [Details_eng](Project%20Proposals/Archethic_Anthem_Contest_2025_eng.md) |
-| AeGora               | Community        | Proposed    | Creation of a network leveraging community expertise to address needs in healthcare, security, and more. | [Details_eng](Project%20Proposals/AeGora.pdf) |
+|---------------------------------|--------------------------|--------------------------|--------------------------------------------------- |-------------------------------------------|
+| Archethic Anthem Contest 2025   | Community                | Completed              | Competition to create an official Archethic anthem for 2025. | [Details_fr](Project%20Proposals/Archethic_Anthem_Contest_2025_fr.md)<br> [Details_eng](Project%20Proposals/Archethic_Anthem_Contest_2025_eng.md) |
+| AeGora                          | Community                | Proposed                 | Creation of a network leveraging community expertise to address needs in healthcare, security, and more. | [Details_eng](Project%20Proposals/AeGora.pdf)|
+| ucopourlesnuls.fr Website       | Education                | Completed                | A comprehensive guide aimed at providing foundational knowledge in decentralized finance (DeFi) and assisting users in navigating the Archethic ecosystem. The website offers tutorials, articles, and resources to help users manage UCO tokens and understand related technologies.                                                                                                                                 | [Details_eng](Project%20Proposals/ucopourlesnuls_Website.md)       |
+| XOCO AI Agent                  | Marketing                 | Completed              | An AI agent named XOCO that autonomously generates and publishes daily content on X (formerly Twitter) about Archethic. XOCO aims to increase awareness and engagement by sharing updates, insights, and educational material related to the Archethic ecosystem. Link to XOCO [here](https://creator.bid/agents/678e737085b18bbca8f0fcf8)                                                                                                                     | [Details_eng](Project%20Proposals/XOCO_AI_Agent.md)                   |
+| Archethic Community Coordination Group   | Community       | In Progress              | A Telegram group designed to facilitate coordination among Archethic community members for activities on social media platforms like X and YouTube. The group's objective is to amplify the reach of Archethic-related content through collective efforts, including liking, commenting, and sharing posts to enhance visibility and engagement. Link to this telegram group [here](https://t.me/ArchethicFeed)                                                                    | [Details_eng](Project%20Proposals/Archethic_Community_Coordination.md) |
 
-### How to Use the Table
+### How to Use the Table?
 The table above provides a summary of all projects in the repository. Here's how to interpret and use each column:
 
 1. **Project Name**  
@@ -61,11 +64,43 @@ The table above provides a summary of all projects in the repository. Here's how
 To add a new project, create a detailed proposal document in the `Project_Proposals` directory and update the table with the project’s information and the link to the document.
 
 ## Ideas
-Not all ideas are ready for full project proposals. The Ideas directory is a space for sharing and discussing ideas that are still in the early stages of development. This allows the community to provide feedback and help refine these ideas into actionable projects.
+This section gathers various project ideas proposed by the Archethic community. These ideas are open for discussion, refinement, and potential development into structured project proposals. The goal is to explore the innovative applications of Archethic technology in different domains.
+
+### Ideas List
+| **ID** | **Category**               | **Title**                                     | **Description**                                                                                              | **Discussion** |
+|--------|----------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------|
+| 1      | Technology                 | Universal Biometric Identity System          | A decentralized identity platform using Archethic’s biometric authentication for secure, passwordless access. | [Discuss](Ideas/Universal_Biometric_Identity.md) |
+| 2      | Adoption                    | E-Commerce Payment Gateway                   | A plugin enabling online stores to accept Archethic-based transactions, leveraging fast and energy-efficient payments. | [Discuss](Ideas/E_Commerce_Payment_Gateway.md) |
+| 3      | Technology                 | Decentralized Electronic Voting System       | A blockchain-based voting system secured by Archethic’s biometric verification and quantum-resistant security. | [Discuss](Ideas/Decentralized_Voting_System.md) |
+| 4      | Education                   | Gamified Learning Platform                   | An interactive learning system with NFT-based certifications secured on Archethic’s blockchain. | [Discuss](Ideas/Gamified_Learning_Platform.md) |
+| 5      | Community                   | Secure Ticketing for Events                  | A fraud-proof ticketing system using NFT authentication and biometric access control. | [Discuss](Ideas/Secure_Ticketing.md) |
+| 6      | Marketing                   | Global Awareness Campaign                    | A multimedia campaign showcasing Archethic’s security, low energy consumption, and biometric innovations. | [Discuss](Ideas/Global_Awareness_Campaign.md) |
+| 7      | Adoption                    | Blockchain-Based Digital Signature System    | A digital signing platform secured by biometric authentication and Archethic’s transaction chain. | [Discuss](Ideas/Digital_Signature_System.md) |
+| 8      | Community                   | Biometric NFT Marketplace                    | A marketplace for digital art and content where ownership is tied to the creator’s biometric identity. | [Discuss](Ideas/Biometric_NFT_Marketplace.md) |
+| 9      | Technology                 | Decentralized Oracle Network for Web3        | A secure oracle network providing real-world data for smart contracts on Archethic. | [Discuss](Ideas/Decentralized_Oracle_Network.md) |
+| 10     | Marketing                   | Decentralized Ambassador Program             | A community-driven promotion system rewarding verified contributors through a mini-DAO and proof of unique human. | [Discuss](Ideas/Ambassador_Program.md) |
+
+### How to Add a New Idea?
+To contribute a new idea, follow these steps:
+
+1. **Fork this repository** and navigate to the `README.md` file.
+2. **Edit the table** under the [Ideas List](#ideas-list) section.
+3. Add a new row following this format:
+   ```markdown
+   | ID | Category | Title | Description | Discussion |
+   ```
+   - **ID:** Use the next available number in sequence.
+   - **Category:** Choose from `Technology`, `Education`, `Adoption`, `Marketing`, or `Community`.
+   - **Title:** A short and clear name for the idea.
+   - **Description:** A concise explanation of the project, including how it could benefit from Archethic’s technology.
+   - **Discussion:** Add a link to a `.md` file in the `Ideas` directory that will serve as a space for discussions, questions, and idea improvements.
+4. **Create a new discussion file** in the `Ideas` directory with a `.md` file matching the project title.
+5. **Submit a pull request (PR)** with your proposed idea and discussion file.
+
+Once reviewed and approved, your idea will be officially added to the repository! 🚀
 
 ## Contributing
 We welcome contributions from all members of the Archethic community. Whether you have a new project proposal, feedback on existing proposals, or ideas to share, your input is valuable. Please refer to our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
