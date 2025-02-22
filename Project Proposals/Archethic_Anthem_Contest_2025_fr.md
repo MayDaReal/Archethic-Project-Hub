@@ -125,4 +125,80 @@ Let’s celebrate innovation, sustainability, and the power of the community wit
 2. **Contenu viral :** Les chansons sont souvent partagées massivement, surtout si elles sont créatives ou humoristiques.  
 3. **Alignement avec les valeurs d’Archethic :** En associant la technologie (IA) à la créativité, Archethic se positionne comme un projet innovant et humain.
 
+---
 
+### **Rétrospective de l'événement et améliorations pour les futures éditions**
+
+#### **Résultats de l'événement :**
+Malheureusement, le concours n'a eu **aucun participant**. Ce résultat met en lumière plusieurs axes d'amélioration pour les prochaines éditions :
+
+1. **Manque d'incitations financières :** L'absence de récompense en UCO ou NFT a probablement réduit la motivation à participer.
+2. **Promotion insuffisante :** Une campagne de communication plus structurée et soutenue était nécessaire tout au long de la période du concours.
+3. **Absence de guides pour les participants :** Fournir des tutoriels sur l'utilisation d'outils musicaux alimentés par l'IA (Udio, Suno.ai, etc.) aurait pu aider davantage d'utilisateurs à se sentir capables de participer.
+4. **Soutien officiel limité :** La Fondation Archethic n'a pas participé activement, ce qui a pu impacter la crédibilité et la portée.
+
+#### **Recommandations pour les futurs concours :**
+1. **Introduire des récompenses en tokens UCO** – Offrir des récompenses monétaires ou tokenisées pour attirer plus de participants.
+2. **Améliorer la stratégie marketing** – Planifier une campagne de sensibilisation plus agressive avec des rappels programmés.
+3. **Créer des tutoriels pas à pas** – Fournir des guides vidéo et écrits pour aider les non-musiciens à créer de la musique générée par l'IA.
+4. **Obtenir le soutien officiel de la Fondation Archethic** – Une implication directe de la fondation pourrait renforcer la crédibilité et la visibilité.
+5. **Impliquer des influenceurs et former des partenariats** – Collaborer avec des créateurs de contenu, des passionnés de musique IA ou des défenseurs de la blockchain pour accroître la notoriété.
+
+#### **Conclusion :**
+Bien que cette édition n'ait pas attiré de participants, elle constitue une expérience d'apprentissage précieuse. Avec des ajustements stratégiques, le **Archethic Anthem Contest 2026** pourrait rencontrer un plus grand succès, mobiliser davantage de membres de la communauté et accroître la visibilité d'Archethic dans le monde entier.
+
+🚀 **Bâtissons sur cette expérience et faisons du concours de l'année prochaine un événement majeur !**
+
+
+### ** Messages on X and Telegram to announce the end of the event
+
+#### **Telegram Message** 📢  
+🚀 **Archethic Anthem Contest 2025 – Event Recap** 🎶  
+
+The **Archethic Anthem Contest 2025** was an ambitious initiative aimed at bringing the community together through music, creativity, and blockchain-powered innovation. However, despite our best efforts, **no participants submitted an entry** this year.  
+
+🔎 **What happened?**  
+- **Lack of incentives**: No UCO or NFT rewards may have reduced motivation.  
+- **Limited promotion**: More structured and ongoing communication was needed.  
+- **Lack of guidance**: Tutorials on AI music tools (Udio, Suno.ai) could have helped more people participate.  
+- **No official Archethic Foundation involvement**: Greater support could have increased visibility and credibility.  
+
+🎤 **The only result of this initiative?** A **demo track** created as an example to inspire the community.  
+
+⚡ **Lessons learned for 2026:**  
+✅ Introducing UCO token rewards for participants.  
+✅ Stronger communication strategy & influencer collaborations.  
+✅ Hands-on tutorials & AI music creation workshops.  
+✅ Greater official involvement from Archethic Foundation.  
+
+💡 **We’re taking this experience as a lesson and will come back stronger next year!** Let’s make the 2026 edition a real success.  
+
+🔥 **Your feedback matters!** What changes would you suggest? Join the discussion in our community chat!  
+
+#ArchethicAnthem #BlockchainMusic #LessonsFor2026
+
+---
+
+#### **X (Twitter) Post** 🐦  
+🚨 **Archethic Anthem Contest 2025 – Recap & Lessons Learned** 🚨  
+
+🎶 **Zero participants.** Yes, you read that right.  
+
+Despite our efforts, **the only song produced** was the **example track** provided at launch. Why?  
+
+🔸 No financial incentives (UCO/NFT rewards missing).  
+🔸 Insufficient marketing throughout the contest.  
+🔸 No tutorials to help non-musicians participate.  
+🔸 Lack of official Archethic Foundation involvement.  
+
+💡 **So, what’s next?**  
+🔥 UCO token rewards in 2026.  
+🔥 Better promotion & influencer outreach.  
+🔥 AI music tutorials for all skill levels.  
+🔥 More community engagement & official support.  
+
+We **failed forward**—now let’s make **#ArchethicAnthem2026** a true success!  
+
+👉 What would YOU change for next year? Drop your thoughts below! 👇  
+
+#Archethic #BlockchainCommunity #CryptoMusic

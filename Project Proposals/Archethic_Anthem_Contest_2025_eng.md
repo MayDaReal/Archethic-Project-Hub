@@ -215,6 +215,3 @@ We **failed forward**—now let’s make **#ArchethicAnthem2026** a true success
 👉 What would YOU change for next year? Drop your thoughts below! 👇  
 
 #Archethic #BlockchainCommunity #CryptoMusic
-
-
-
